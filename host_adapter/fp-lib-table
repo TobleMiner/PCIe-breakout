@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Connector_PinHeader_EdgeLaunch_2.54mm)(type KiCad)(uri ${KIPRJMOD}/../lib/Connector_PinHeader_EdgeLaunch_2.54mm.pretty)(options "")(descr ""))
+  (lib (name Connector_PCIe)(type KiCad)(uri ${KIPRJMOD}/../lib/Connector_PCIe.pretty)(options "")(descr ""))
+)

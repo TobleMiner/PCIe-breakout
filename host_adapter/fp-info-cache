@@ -1,0 +1,666 @@
+150988871966620
+Connector_PCBEdge
+4UCON_10156_2x40_P1.27mm_Socket_Horizontal
+4UCON 10156 Card edge socket with 80 contacts (40 each side), through-hole, http://www.4uconnector.com/online/object/4udrawing/10156.pdf
+4UCON 10156 Card edge socket with 80 contacts
+0
+80
+80
+Connector_PCBEdge
+BUS_AT
+AT ISA 16 bits Bus Edge Connector
+BUS ISA AT Edge connector
+0
+98
+98
+Connector_PCBEdge
+BUS_PCI
+PCI bus Edge Connector
+PCI bus Edge Connector
+0
+240
+120
+Connector_PCBEdge
+BUS_PCI_Express_Mini
+Mini-PCI Express bus connector (https://s3.amazonaws.com/fit-iot/download/facet-cards/documents/PCI_Express_miniCard_Electromechanical_specs_rev1.2.pdf#page=11)
+mini pcie
+0
+54
+53
+Connector_PCBEdge
+BUS_PCI_Express_Mini_Dual
+Mini-PCI Express bus connector full size with dual clips (https://s3.amazonaws.com/fit-iot/download/facet-cards/documents/PCI_Express_miniCard_Electromechanical_specs_rev1.2.pdf#page=28)
+mini pcie
+0
+54
+53
+Connector_PCBEdge
+BUS_PCI_Express_Mini_Full
+Mini-PCI Express bus connector full size with clips (https://s3.amazonaws.com/fit-iot/download/facet-cards/documents/PCI_Express_miniCard_Electromechanical_specs_rev1.2.pdf#page=24)
+mini pcie
+0
+54
+53
+Connector_PCBEdge
+BUS_PCI_Express_Mini_Half
+Mini-PCI Express bus connector half size with clips (https://s3.amazonaws.com/fit-iot/download/facet-cards/documents/PCI_Express_miniCard_Electromechanical_specs_rev1.2.pdf#page=25)
+mini pcie
+0
+54
+53
+Connector_PCBEdge
+BUS_PCIexpress_x1
+PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70
+PCIe
+0
+36
+36
+Connector_PCBEdge
+BUS_PCIexpress_x4
+PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70
+PCIe
+0
+64
+64
+Connector_PCBEdge
+BUS_PCIexpress_x8
+PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70
+PCIe
+0
+98
+98
+Connector_PCBEdge
+BUS_PCIexpress_x16
+PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70
+PCIe
+0
+164
+164
+Connector_PCBEdge
+Samtec_MECF-05-0_-L-DV_2x05_P1.27mm_Polarized_Edge
+Highspeed card edge connector for PCB's with 05 contacts (polarized)
+conn samtec card-edge high-speed
+0
+8
+8
+Connector_PCBEdge
+Samtec_MECF-05-0_-NP-L-DV_2x05_P1.27mm_Edge
+Highspeed card edge connector for PCB's with 05 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+10
+10
+Connector_PCBEdge
+Samtec_MECF-05-01-L-DV-WT_2x05_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 05 contacts (polarized)
+conn samtec card-edge high-speed
+0
+10
+8
+Connector_PCBEdge
+Samtec_MECF-05-01-L-DV_2x05_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 05 contacts (polarized)
+conn samtec card-edge high-speed
+0
+8
+8
+Connector_PCBEdge
+Samtec_MECF-05-01-NP-L-DV-WT_2x05_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 05 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+12
+10
+Connector_PCBEdge
+Samtec_MECF-05-01-NP-L-DV_2x05_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 05 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+10
+10
+Connector_PCBEdge
+Samtec_MECF-05-02-L-DV-WT_2x05_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 05 contacts (polarized)
+conn samtec card-edge high-speed
+0
+10
+8
+Connector_PCBEdge
+Samtec_MECF-05-02-L-DV_2x05_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 05 contacts (polarized)
+conn samtec card-edge high-speed
+0
+8
+8
+Connector_PCBEdge
+Samtec_MECF-05-02-NP-L-DV-WT_2x05_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 05 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+12
+10
+Connector_PCBEdge
+Samtec_MECF-05-02-NP-L-DV_2x05_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 05 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+10
+10
+Connector_PCBEdge
+Samtec_MECF-08-0_-L-DV_2x08_P1.27mm_Polarized_Edge
+Highspeed card edge connector for PCB's with 08 contacts (polarized)
+conn samtec card-edge high-speed
+0
+14
+14
+Connector_PCBEdge
+Samtec_MECF-08-0_-NP-L-DV_2x08_P1.27mm_Edge
+Highspeed card edge connector for PCB's with 08 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+16
+16
+Connector_PCBEdge
+Samtec_MECF-08-01-L-DV-WT_2x08_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 08 contacts (polarized)
+conn samtec card-edge high-speed
+0
+16
+14
+Connector_PCBEdge
+Samtec_MECF-08-01-L-DV_2x08_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 08 contacts (polarized)
+conn samtec card-edge high-speed
+0
+14
+14
+Connector_PCBEdge
+Samtec_MECF-08-01-NP-L-DV-WT_2x08_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 08 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+18
+16
+Connector_PCBEdge
+Samtec_MECF-08-01-NP-L-DV_2x08_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 08 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+16
+16
+Connector_PCBEdge
+Samtec_MECF-08-02-L-DV-WT_2x08_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 08 contacts (polarized)
+conn samtec card-edge high-speed
+0
+16
+14
+Connector_PCBEdge
+Samtec_MECF-08-02-L-DV_2x08_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 08 contacts (polarized)
+conn samtec card-edge high-speed
+0
+14
+14
+Connector_PCBEdge
+Samtec_MECF-08-02-NP-L-DV-WT_2x08_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 08 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+18
+16
+Connector_PCBEdge
+Samtec_MECF-08-02-NP-L-DV_2x08_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 08 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+16
+16
+Connector_PCBEdge
+Samtec_MECF-20-0_-L-DV_2x20_P1.27mm_Polarized_Edge
+Highspeed card edge connector for PCB's with 20 contacts (polarized)
+conn samtec card-edge high-speed
+0
+38
+38
+Connector_PCBEdge
+Samtec_MECF-20-0_-NP-L-DV_2x20_P1.27mm_Edge
+Highspeed card edge connector for PCB's with 20 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+40
+40
+Connector_PCBEdge
+Samtec_MECF-20-01-L-DV-WT_2x20_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 20 contacts (polarized)
+conn samtec card-edge high-speed
+0
+40
+38
+Connector_PCBEdge
+Samtec_MECF-20-01-L-DV_2x20_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 20 contacts (polarized)
+conn samtec card-edge high-speed
+0
+38
+38
+Connector_PCBEdge
+Samtec_MECF-20-01-NP-L-DV-WT_2x20_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 20 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+42
+40
+Connector_PCBEdge
+Samtec_MECF-20-01-NP-L-DV_2x20_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 20 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+40
+40
+Connector_PCBEdge
+Samtec_MECF-20-02-L-DV-WT_2x20_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 20 contacts (polarized)
+conn samtec card-edge high-speed
+0
+40
+38
+Connector_PCBEdge
+Samtec_MECF-20-02-L-DV_2x20_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 20 contacts (polarized)
+conn samtec card-edge high-speed
+0
+38
+38
+Connector_PCBEdge
+Samtec_MECF-20-02-NP-L-DV-WT_2x20_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 20 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+42
+40
+Connector_PCBEdge
+Samtec_MECF-20-02-NP-L-DV_2x20_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 20 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+40
+40
+Connector_PCBEdge
+Samtec_MECF-30-0_-L-DV_2x30_P1.27mm_Polarized_Edge
+Highspeed card edge connector for PCB's with 30 contacts (polarized)
+conn samtec card-edge high-speed
+0
+58
+58
+Connector_PCBEdge
+Samtec_MECF-30-0_-NP-L-DV_2x30_P1.27mm_Edge
+Highspeed card edge connector for PCB's with 30 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+60
+60
+Connector_PCBEdge
+Samtec_MECF-30-01-L-DV-WT_2x30_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 30 contacts (polarized)
+conn samtec card-edge high-speed
+0
+60
+58
+Connector_PCBEdge
+Samtec_MECF-30-01-L-DV_2x30_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 30 contacts (polarized)
+conn samtec card-edge high-speed
+0
+58
+58
+Connector_PCBEdge
+Samtec_MECF-30-01-NP-L-DV-WT_2x30_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 30 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+62
+60
+Connector_PCBEdge
+Samtec_MECF-30-01-NP-L-DV_2x30_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 30 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+60
+60
+Connector_PCBEdge
+Samtec_MECF-30-02-L-DV-WT_2x30_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 30 contacts (polarized)
+conn samtec card-edge high-speed
+0
+60
+58
+Connector_PCBEdge
+Samtec_MECF-30-02-L-DV_2x30_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 30 contacts (polarized)
+conn samtec card-edge high-speed
+0
+58
+58
+Connector_PCBEdge
+Samtec_MECF-30-02-NP-L-DV-WT_2x30_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 30 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+62
+60
+Connector_PCBEdge
+Samtec_MECF-30-02-NP-L-DV_2x30_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 30 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+60
+60
+Connector_PCBEdge
+Samtec_MECF-40-0_-L-DV_2x40_P1.27mm_Polarized_Edge
+Highspeed card edge connector for PCB's with 40 contacts (polarized)
+conn samtec card-edge high-speed
+0
+78
+78
+Connector_PCBEdge
+Samtec_MECF-40-0_-NP-L-DV_2x40_P1.27mm_Edge
+Highspeed card edge connector for PCB's with 40 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+80
+80
+Connector_PCBEdge
+Samtec_MECF-40-01-L-DV-WT_2x40_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 40 contacts (polarized)
+conn samtec card-edge high-speed
+0
+80
+78
+Connector_PCBEdge
+Samtec_MECF-40-01-L-DV_2x40_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 40 contacts (polarized)
+conn samtec card-edge high-speed
+0
+78
+78
+Connector_PCBEdge
+Samtec_MECF-40-01-NP-L-DV-WT_2x40_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 40 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+82
+80
+Connector_PCBEdge
+Samtec_MECF-40-01-NP-L-DV_2x40_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 40 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+80
+80
+Connector_PCBEdge
+Samtec_MECF-40-02-L-DV-WT_2x40_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 40 contacts (polarized)
+conn samtec card-edge high-speed
+0
+80
+78
+Connector_PCBEdge
+Samtec_MECF-40-02-L-DV_2x40_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 40 contacts (polarized)
+conn samtec card-edge high-speed
+0
+78
+78
+Connector_PCBEdge
+Samtec_MECF-40-02-NP-L-DV-WT_2x40_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 40 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+82
+80
+Connector_PCBEdge
+Samtec_MECF-40-02-NP-L-DV_2x40_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 40 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+80
+80
+Connector_PCBEdge
+Samtec_MECF-50-0_-L-DV_2x50_P1.27mm_Polarized_Edge
+Highspeed card edge connector for PCB's with 50 contacts (polarized)
+conn samtec card-edge high-speed
+0
+98
+98
+Connector_PCBEdge
+Samtec_MECF-50-0_-NP-L-DV_2x50_P1.27mm_Edge
+Highspeed card edge connector for PCB's with 50 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+100
+100
+Connector_PCBEdge
+Samtec_MECF-50-01-L-DV-WT_2x50_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 50 contacts (polarized)
+conn samtec card-edge high-speed
+0
+100
+98
+Connector_PCBEdge
+Samtec_MECF-50-01-L-DV_2x50_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 50 contacts (polarized)
+conn samtec card-edge high-speed
+0
+98
+98
+Connector_PCBEdge
+Samtec_MECF-50-01-NP-L-DV-WT_2x50_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 50 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+102
+100
+Connector_PCBEdge
+Samtec_MECF-50-01-NP-L-DV_2x50_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 50 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+100
+100
+Connector_PCBEdge
+Samtec_MECF-50-02-L-DV-WT_2x50_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 50 contacts (polarized)
+conn samtec card-edge high-speed
+0
+100
+98
+Connector_PCBEdge
+Samtec_MECF-50-02-L-DV_2x50_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 50 contacts (polarized)
+conn samtec card-edge high-speed
+0
+98
+98
+Connector_PCBEdge
+Samtec_MECF-50-02-NP-L-DV-WT_2x50_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 50 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+102
+100
+Connector_PCBEdge
+Samtec_MECF-50-02-NP-L-DV_2x50_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 50 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+100
+100
+Connector_PCBEdge
+Samtec_MECF-60-0_-L-DV_2x60_P1.27mm_Polarized_Edge
+Highspeed card edge connector for PCB's with 60 contacts (polarized)
+conn samtec card-edge high-speed
+0
+116
+116
+Connector_PCBEdge
+Samtec_MECF-60-0_-NP-L-DV_2x60_P1.27mm_Edge
+Highspeed card edge connector for PCB's with 60 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+120
+120
+Connector_PCBEdge
+Samtec_MECF-60-01-L-DV-WT_2x60_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 60 contacts (polarized)
+conn samtec card-edge high-speed
+0
+118
+116
+Connector_PCBEdge
+Samtec_MECF-60-01-L-DV_2x60_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 60 contacts (polarized)
+conn samtec card-edge high-speed
+0
+116
+116
+Connector_PCBEdge
+Samtec_MECF-60-01-NP-L-DV-WT_2x60_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 60 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+122
+120
+Connector_PCBEdge
+Samtec_MECF-60-01-NP-L-DV_2x60_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 60 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+120
+120
+Connector_PCBEdge
+Samtec_MECF-60-02-L-DV-WT_2x60_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 60 contacts (polarized)
+conn samtec card-edge high-speed
+0
+118
+116
+Connector_PCBEdge
+Samtec_MECF-60-02-L-DV_2x60_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 60 contacts (polarized)
+conn samtec card-edge high-speed
+0
+116
+116
+Connector_PCBEdge
+Samtec_MECF-60-02-NP-L-DV-WT_2x60_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 60 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+122
+120
+Connector_PCBEdge
+Samtec_MECF-60-02-NP-L-DV_2x60_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 60 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+120
+120
+Connector_PCBEdge
+Samtec_MECF-70-0_-L-DV_2x70_P1.27mm_Polarized_Edge
+Highspeed card edge connector for PCB's with 70 contacts (polarized)
+conn samtec card-edge high-speed
+0
+136
+136
+Connector_PCBEdge
+Samtec_MECF-70-0_-NP-L-DV_2x70_P1.27mm_Edge
+Highspeed card edge connector for PCB's with 70 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+140
+140
+Connector_PCBEdge
+Samtec_MECF-70-01-L-DV-WT_2x70_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 70 contacts (polarized)
+conn samtec card-edge high-speed
+0
+138
+136
+Connector_PCBEdge
+Samtec_MECF-70-01-L-DV_2x70_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 70 contacts (polarized)
+conn samtec card-edge high-speed
+0
+136
+136
+Connector_PCBEdge
+Samtec_MECF-70-01-NP-L-DV-WT_2x70_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 70 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+142
+140
+Connector_PCBEdge
+Samtec_MECF-70-01-NP-L-DV_2x70_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 1.6mm PCB's with 70 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+140
+140
+Connector_PCBEdge
+Samtec_MECF-70-02-L-DV-WT_2x70_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 70 contacts (polarized)
+conn samtec card-edge high-speed
+0
+138
+136
+Connector_PCBEdge
+Samtec_MECF-70-02-L-DV_2x70_P1.27mm_Polarized_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 70 contacts (polarized)
+conn samtec card-edge high-speed
+0
+136
+136
+Connector_PCBEdge
+Samtec_MECF-70-02-NP-L-DV-WT_2x70_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 70 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+142
+140
+Connector_PCBEdge
+Samtec_MECF-70-02-NP-L-DV_2x70_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 70 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+140
+140
+Connector_PCBEdge
+molex_EDGELOCK_2-CKT
+https://www.molex.com/pdm_docs/sd/2008900106_sd.pdf
+Connector PCBEdge molex EDGELOCK
+0
+2
+2
+Connector_PCBEdge
+molex_EDGELOCK_4-CKT
+https://www.molex.com/pdm_docs/sd/2008900106_sd.pdf
+Connector PCBEdge molex EDGELOCK
+0
+4
+4
+Connector_PCBEdge
+molex_EDGELOCK_6-CKT
+https://www.molex.com/pdm_docs/sd/2008900106_sd.pdf
+Connector PCBEdge molex EDGELOCK
+0
+6
+6
+Connector_PCBEdge
+molex_EDGELOCK_8-CKT
+https://www.molex.com/pdm_docs/sd/2008900106_sd.pdf
+Connector PCBEdge molex EDGELOCK
+0
+8
+8
