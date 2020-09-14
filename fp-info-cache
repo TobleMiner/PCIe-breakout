@@ -1,4 +1,4 @@
-18333237364172051
+18338034311853457
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -22281,12 +22281,19 @@ Connector PCBEdge molex EDGELOCK
 8
 8
 Connector_PCIe
+Connector_CardEdge_PCIe_x16
+
+
+0
+0
+0
+Connector_PCIe
 UMAX_3126-10103T_PCIe_x16_edge_launch
 
 
 0
-0
-0
+164
+164
 Connector_Phoenix_GMSTB
 PhoenixContact_GMSTBA_2,5_2-G-7,62_1x02_P7.62mm_Horizontal
 Generic Phoenix Contact connector footprint for: GMSTBA_2,5/2-G-7,62; number of pins: 02; pin pitch: 7.62mm; Angled || order number: 1766233 12A 630V
@@ -33760,6 +33767,20 @@ Surface mounted pin header SMD 2x40 2.54mm double row
 0
 80
 80
+Connector_PinHeader_EdgeLaunch_2.54mm
+Connector_PinHeader_EdgeLaunch_2,54mm_01x02
+
+
+0
+2
+2
+Connector_PinHeader_EdgeLaunch_2.54mm
+Connector_PinHeader_EdgeLaunch_2,54mm_01x40
+
+
+0
+40
+40
 Connector_PinSocket_1.00mm
 PinSocket_1x02_P1.00mm_Vertical
 Through hole straight socket strip, 1x02, 1.00mm pitch, single row (https://gct.co/files/drawings/bc065.pdf), script generated
